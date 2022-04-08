@@ -1,4 +1,3 @@
-from cgi import test
 import os
 from gtts import gTTS
 # mytext = "hello i am god's man"
